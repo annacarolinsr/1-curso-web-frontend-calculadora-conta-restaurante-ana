@@ -10,6 +10,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annacarolinsr/1-curso-web-frontend-calculadora-conta-restaurante-ana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/annacarolinsr/1-curso-web-frontend-calculadora-conta-restaurante-ana/issues"
+  },
+  "homepage": "https://github.com/annacarolinsr/1-curso-web-frontend-calculadora-conta-restaurante-ana#readme",
   "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
